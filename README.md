@@ -6,9 +6,10 @@ Esta configuración/ecosistema tematizada en Gruvbox, contiene una lista presele
 Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien), ahora con buen rendimiento, y de paso, un SO con buena fachada para trabajar. Puede considerarlo un manual para replicarlo en la máquina de su gusto.
 
 ## Instrucciones
+- Para evitar errores, instale primero la lista de paquetes y por último aplique los dotfiles.
+- Al instalar un paquete enlistado con una nota anclada, seguir instrucciones inmediatamente de esa misma nota.
 - Los dotfiles están en formato MD, contienen señalizaciones y bloques de código según el archivo a modificar.
 - Los dotfiles ocultos tienen un ```(.)``` al principio del nombre.
-- Para evitar errores, instale primero la lista de paquetes y luego aplique los dotfiles.
 
 ## A consideración
 Programas nativos a eliminar (si instalaste XFCE con archinstall):
@@ -33,20 +34,17 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 [^5]
 
 | **[ Temas ]** | **===[ Enlaces ]===** |
-| :---------------: | :-------------------: |
 | **Toshiba Distro GRUB Theme** | https://k1ng.dev/distro-grub-themes/preview |
 | **Gruvbox GTK Theme** | https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme |
 | **Gruvbox Plus Icon Pack** | https://github.com/SylEleuth/gruvbox-plus-icon-pack |
 | **Capitaine Cursors** | https://github.com/sainnhe/capitaine-cursors |
 | **[ Apps ]** | **===[ Enlaces ]===** |
-| :----------: | :-------------------: |
 | **Yazi** | https://github.com/matt-dong-123/gruvbox-material.yazi |
 | **Telegram** | https://github.com/nathanielevan/gruvbox-material-telegram |
 | **Mousepad** | https://github.com/xelser/gruvbox-gtksourceview |
 | **Terminal** | https://gogh-co.github.io/Gogh/ |
 | **Bat** | https://github.com/molchalin/gruvbox-material-bat |
 | **[ Otros ]** | **===[ Enlaces ]===** |
-| :-----------: | :-------------------: |
 | **Wallpapers** | https://github.com/dharmx/walls/blob/main/gruvbox/README.md |
 
 ## Terminal
