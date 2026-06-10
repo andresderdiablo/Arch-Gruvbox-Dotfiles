@@ -6,9 +6,9 @@ Esta configuración/ecosistema tematizada en Gruvbox, contiene una lista presele
 Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien), ahora con buen rendimiento, y de paso, un SO con buena fachada para trabajar. Puede considerarlo un manual para replicarlo en la máquina de su gusto.
 
 ## Instrucciones
-• Los dotfiles están en formato MD, contienen señalizaciones y bloques de código según el archivo a modificar.
-• Los dotfiles ocultos tienen un ```(.)``` al principio del nombre.
-• Para evitar errores, instale primero la lista de paquetes y luego aplique los dotfiles.
+- Los dotfiles están en formato MD, contienen señalizaciones y bloques de código según el archivo a modificar.
+- Los dotfiles ocultos tienen un ```(.)``` al principio del nombre.
+- Para evitar errores, instale primero la lista de paquetes y luego aplique los dotfiles.
 
 ## A consideración
 Programas nativos a eliminar (si instalaste XFCE con archinstall):
