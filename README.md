@@ -25,7 +25,7 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 ## Temas
 [^5]
 
-| **[ Temas GTK ]** | **===[ Enlaces ]===** |
+| **[ Temas ]** | **===[ Enlaces ]===** |
 | :---------------: | :-------------------: |
 | **Toshiba Distro GRUB Theme** | https://k1ng.dev/distro-grub-themes/preview |
 | **Gruvbox GTK Theme** | https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme |
@@ -38,7 +38,6 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 | **Mousepad** | https://github.com/xelser/gruvbox-gtksourceview |
 | **Terminal** | https://gogh-co.github.io/Gogh/ |
 | **Bat** | https://github.com/molchalin/gruvbox-material-bat |
-| **Obsidian** | https://github.com/Costeer/Gruvbox-Material-Themes#obsidian |
 | **[ Otros ]** | **===[ Enlaces ]===** |
 | :-----------: | :-------------------: |
 | **Wallpapers** | https://github.com/dharmx/walls/blob/main/gruvbox/README.md |
@@ -105,7 +104,7 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
     - [x] zsh-syntax-highlighting
     - [x] zsh-autosuggestions
     - [x] zsh-completions
-- [x] oh-my-zsh-git (AUR)[^3]
+- [x] oh-my-zsh-git (AUR) [^3]
 - [x] zsh-theme-powerlevel10k (AUR)
 - [x] gnome-themes-extra
 - [x] gtk-engine-murrine (AUR) --> MANUAL
@@ -140,15 +139,16 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 - [x] libreoffice-fresh
     - [x] libreoffice-fresh-es
 - [x] gucharmap
-- [x] obsidian --> LO SEGUNDO A INSTALAR
+- [x] obsidian
     - [x] Remotely Save (Plugin)
+    - [x] Material Gruvbox (Tema)
 
 ### ---Internet---
 - [x] badwolf
 - [x] torbrowser-launcher
 - [x] koofr-desktop-bin (AUR)
 - [x] qbittorrent
-- [x] riseup-vpn (AUR)[^4]
+- [x] riseup-vpn (AUR) [^4]
 - [x] telegram-desktop
 - [x] signal-desktop
 - [x] keepassxc
@@ -158,8 +158,8 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 
 [^2]: Agregar proceso a Sesión e Inicio; orden: ```conky --daemonize --pause=5```
 
-[^3]: Ejecutar en Terminal: ```sudo ln -s /usr/share/zsh/plugins/zsh-syntax-highlighting /usr/share/oh-my-zsh/custom/plugins/zsh-syntax-highlighting``` | ```sudo ln -s /usr/share/zsh/plugins/zsh-autosuggestions /usr/share/oh-my-zsh/custom/plugins/zsh-autosuggestions```
+[^3]: Ejecutar en Terminal: ```sudo ln -s /usr/share/zsh/plugins/zsh-syntax-highlighting /usr/share/oh-my-zsh/custom/plugins/zsh-syntax-highlighting``` | Y después: ```sudo ln -s /usr/share/zsh/plugins/zsh-autosuggestions /usr/share/oh-my-zsh/custom/plugins/zsh-autosuggestions```
 
 [^4]: Cambiar orden de lanzador en menú: ```env QT_QUICK_BACKEND=software riseup-vpn %U```
 
-[^5]: Cambiar nombres de carpeta de tema a: ```Gruvbox (Dark, Compact, Medium, Borderless, MacOS)```
+[^5]: Cambiar nombre de carpeta de Gruvbox GTK Theme a: ```Gruvbox (Dark, Compact, Medium, Borderless, MacOS)``` | Cambiar nombre de carpeta de Gruvbox Plus Icon Pack a: ```Gruvbox Plus Icons (Dark)``` | Cambiar nombre de carpeta de Capitaine Cursors a: ```Capitaine Cursors (Gruvbox)```
