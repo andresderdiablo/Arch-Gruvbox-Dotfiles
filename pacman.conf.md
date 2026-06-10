@@ -1,5 +1,0 @@
-Modificar **``#Color``** por:
-
-```
-Color
-```
