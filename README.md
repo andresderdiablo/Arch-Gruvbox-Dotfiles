@@ -34,6 +34,7 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 [^5]
 
 | **[ Temas ]** | **===[ Enlaces ]===** |
+|---------------|-----------------------|
 | **Toshiba Distro GRUB Theme** | https://k1ng.dev/distro-grub-themes/preview |
 | **Gruvbox GTK Theme** | https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme |
 | **Gruvbox Plus Icon Pack** | https://github.com/SylEleuth/gruvbox-plus-icon-pack |
