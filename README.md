@@ -1,7 +1,9 @@
 # Arch Gruvbox
-Ésta es la configuración de mi máquina secundaria con programas seleccionados y personalización visual. Puedes copiar los archivos de configuración (dotfiles) si te gusta el tema Gruvbox, también algunos programas cuentan con su propio esquema de color para este caso, y arreglos en general para paquetes. Es todo un ecosistema en un mismo diseño estético y moderno.
+**Ecosistema y Tema para Arch Linux con XFCE/LightDM/XFWM4**
 
-Todo ésto se hizo pensando en rescatar una laptop de cuando los tigres fumaban, que ahora funciona de maravilla (de verdad ni siquiera Windows 7 le corría bien).
+Ésta configuración implica todo un ecosistema diseñado en la temática Gruvbox. Los dotfiles tienen sus nombres de archivos reales, pero en formato MD para una guiatura y configuración manual. Son sobretodo configuraciones esenciales de sistema, para los paquetes enlistados acá y también su personalización estética respectiva. Revise con suma atención lo que necesita.
+
+Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien), ahora con buen rendimiento, y de paso, un SO con buena fachada para trabajar.
 
 ## A consideración
 Programas nativos a eliminar (si instalaste XFCE con archinstall):
