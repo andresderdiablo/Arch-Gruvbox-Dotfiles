@@ -1,9 +1,9 @@
 # Arch Linux Gruvbox
-**Ecosistema y Tema para Arch Linux con XFCE/LightDM/XFWM4**
+**Ecosistema y Tema para Arch Linux con XFCE / LightDM / XFWM4**
 
-Esta configuración/ecosistema tematizada en Gruvbox, contiene una lista preseleccionada de paquetes lo suficientemente ideales, gráficas y fáciles para el usuario común. Los dotfiles contenidos auí son sobretodo configuraciones esenciales del sistema, de los paquetes y sus esquemas de color. Revise con suma atención lo que necesita.
+Esta configuración/ecosistema popurrí tematizada en Gruvbox, contiene una lista preseleccionada de paquetes lo suficientemente ideales, gráficas y fáciles para el usuario común. Los dotfiles contenidos aquí son sobretodo configuraciones esenciales del sistema, de los paquetes y sus esquemas de color. Revise con suma atención lo que necesita.
 
-Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien), ahora con buen rendimiento, y de paso, un SO con buena fachada para trabajar. Puede considerarlo un manual para replicarlo en la máquina de su gusto.
+Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien). Ahora con buen rendimiento y de paso, una distro con buena fachada para trabajar. Puede considerarlo un manual para replicarlo en la máquina de su gusto.
 
 ## Instrucciones
 - Para evitar errores, instale primero la lista de paquetes y por último aplique los dotfiles.
