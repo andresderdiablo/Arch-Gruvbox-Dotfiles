@@ -1,9 +1,14 @@
-# Arch Gruvbox
+# Arch Linux Gruvbox
 **Ecosistema y Tema para Arch Linux con XFCE/LightDM/XFWM4**
 
-Ésta configuración implica todo un ecosistema diseñado en la temática Gruvbox. Los dotfiles tienen sus nombres de archivos reales, pero en formato MD para una guiatura y configuración manual. Son sobretodo configuraciones esenciales de sistema, para los paquetes enlistados acá y también su personalización estética respectiva. Revise con suma atención lo que necesita.
+Esta configuración/ecosistema tematizada en Gruvbox, contiene una lista preseleccionada de paquetes lo suficientemente ideales, gráficas y fáciles para el usuario común. Los dotfiles contenidos auí son sobretodo configuraciones esenciales del sistema, de los paquetes y sus esquemas de color. Revise con suma atención lo que necesita.
 
-Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien), ahora con buen rendimiento, y de paso, un SO con buena fachada para trabajar.
+Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien), ahora con buen rendimiento, y de paso, un SO con buena fachada para trabajar. Puede considerarlo un manual para replicarlo en la máquina de su gusto.
+
+## Instrucciones
+• Los dotfiles están en formato MD, contienen señalizaciones y bloques de código según el archivo a modificar.
+• Los dotfiles ocultos tienen un ```(.)``` al principio del nombre.
+• Para evitar errores, instale primero la lista de paquetes y luego aplique los dotfiles.
 
 ## A consideración
 Programas nativos a eliminar (si instalaste XFCE con archinstall):
