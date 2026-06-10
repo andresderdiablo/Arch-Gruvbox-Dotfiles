@@ -39,13 +39,17 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 | **Gruvbox GTK Theme** | https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme |
 | **Gruvbox Plus Icon Pack** | https://github.com/SylEleuth/gruvbox-plus-icon-pack |
 | **Capitaine Cursors** | https://github.com/sainnhe/capitaine-cursors |
+
 | **[ Apps ]** | **===[ Enlaces ]===** |
+|--------------|-----------------------|
 | **Yazi** | https://github.com/matt-dong-123/gruvbox-material.yazi |
 | **Telegram** | https://github.com/nathanielevan/gruvbox-material-telegram |
 | **Mousepad** | https://github.com/xelser/gruvbox-gtksourceview |
 | **Terminal** | https://gogh-co.github.io/Gogh/ |
 | **Bat** | https://github.com/molchalin/gruvbox-material-bat |
+
 | **[ Otros ]** | **===[ Enlaces ]===** |
+|---------------|-----------------------|
 | **Wallpapers** | https://github.com/dharmx/walls/blob/main/gruvbox/README.md |
 
 ## Terminal
