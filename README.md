@@ -31,7 +31,7 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 
 # [INSTALACIÓN]
 ## Temas
-[^5]
+[^1]
 
 | **[ Temas ]** | **===[ Enlaces ]===** |
 |---------------|-----------------------|
@@ -114,7 +114,7 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
     - [x] zsh-syntax-highlighting
     - [x] zsh-autosuggestions
     - [x] zsh-completions
-- [x] oh-my-zsh-git (AUR) [^3]
+- [x] oh-my-zsh-git (AUR) [^2]
 - [x] zsh-theme-powerlevel10k (AUR)
 - [x] gnome-themes-extra
 - [x] gtk-engine-murrine (AUR) --> MANUAL
@@ -125,9 +125,9 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 ## Distro
 ### ---Sistema---
 - [x] timeshift
-- [x] clamav [^1]
+- [x] clamav [^3]
     - [x] clamtk
-- [x] conky [^2]
+- [x] conky [^4]
 - [x] lightdm-gtk-greeter-settings
 - [x] xfce4-docklike-plugin
 - [x] xfce4-panel-profiles
@@ -158,18 +158,18 @@ Programas nativos a eliminar (si instalaste XFCE con archinstall):
 - [x] torbrowser-launcher
 - [x] koofr-desktop-bin (AUR)
 - [x] qbittorrent
-- [x] riseup-vpn (AUR) [^4]
+- [x] riseup-vpn (AUR) [^5]
 - [x] telegram-desktop
 - [x] signal-desktop
 - [x] keepassxc
 
 # [NOTAS]
-[^1]: Ejecutar en Terminal antes de clamtk: ```freshclam```
+[^1]: Cambiar nombre de carpeta de Gruvbox GTK Theme a: ```Gruvbox (Dark, Compact, Medium, Borderless, MacOS)``` | Cambiar nombre de carpeta de Gruvbox Plus Icon Pack a: ```Gruvbox Plus Icons (Dark)``` | Cambiar nombre de carpeta de Capitaine Cursors a: ```Capitaine Cursors (Gruvbox)```
 
-[^2]: Agregar proceso a Sesión e Inicio; orden: ```conky --daemonize --pause=5```
+[^2]: Ejecutar en Terminal: ```sudo ln -s /usr/share/zsh/plugins/zsh-syntax-highlighting /usr/share/oh-my-zsh/custom/plugins/zsh-syntax-highlighting``` | Y después: ```sudo ln -s /usr/share/zsh/plugins/zsh-autosuggestions /usr/share/oh-my-zsh/custom/plugins/zsh-autosuggestions```
 
-[^3]: Ejecutar en Terminal: ```sudo ln -s /usr/share/zsh/plugins/zsh-syntax-highlighting /usr/share/oh-my-zsh/custom/plugins/zsh-syntax-highlighting``` | Y después: ```sudo ln -s /usr/share/zsh/plugins/zsh-autosuggestions /usr/share/oh-my-zsh/custom/plugins/zsh-autosuggestions```
+[^3]: Ejecutar en Terminal antes de clamtk: ```freshclam```
 
-[^4]: Cambiar orden de lanzador en menú: ```env QT_QUICK_BACKEND=software riseup-vpn %U```
+[^4]: Agregar proceso a Sesión e Inicio; orden: ```conky --daemonize --pause=5```
 
-[^5]: Cambiar nombre de carpeta de Gruvbox GTK Theme a: ```Gruvbox (Dark, Compact, Medium, Borderless, MacOS)``` | Cambiar nombre de carpeta de Gruvbox Plus Icon Pack a: ```Gruvbox Plus Icons (Dark)``` | Cambiar nombre de carpeta de Capitaine Cursors a: ```Capitaine Cursors (Gruvbox)```
+[^5]: Cambiar orden de lanzador en menú: ```env QT_QUICK_BACKEND=software riseup-vpn %U```
