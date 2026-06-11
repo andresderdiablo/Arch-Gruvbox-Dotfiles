@@ -5,6 +5,11 @@ Esta configuración/ecosistema popurrí tematizada en Gruvbox, contiene una list
 
 Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres fumaban (de verdad ni siquiera Windows 7 le corría bien). Ahora con buen rendimiento y de paso, una distro con buena fachada para trabajar. Puede considerarlo un manual para replicarlo en la máquina de su gusto.
 
+![Toma 1](Screenshots/Escritorio1.png)
+![Toma 2](Screenshots/Escritorio2.png)
+![Toma 3](Screenshots/Escritorio3.png)
+![Toma 4](Screenshots/Escritorio4.png)
+
 ## Instrucciones
 - Para evitar errores, instale primero la lista de paquetes y por último aplique los dotfiles.
 - Al instalar un paquete enlistado con una nota anclada, seguir instrucciones inmediatamente de esa misma nota.
