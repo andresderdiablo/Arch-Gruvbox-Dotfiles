@@ -10,6 +10,7 @@ Todo ésto se hizo pensando en rescatar una laptop Toshiba de cuando los tigres 
 - Al instalar un paquete enlistado con una nota anclada, seguir instrucciones inmediatamente de esa misma nota.
 - Los dotfiles están en formato MD, contienen señalizaciones y bloques de código según el archivo a modificar.
 - Los dotfiles ocultos tienen un ```(.)``` al principio del nombre.
+- El valor ```TU_USUARIO``` en este repositorio deberá ser reemplazado por el nombre real del usuario de tu máquina.
 
 ## A consideración
 Programas nativos a eliminar (si instalaste XFCE con archinstall):
